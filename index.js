@@ -1,5 +1,6 @@
 
-
+//will this work if I make it store instead of STORE?
+//We'll see in a bit
 const store = [
   {id: cuid(), name: "apples", checked: false},
   {id: cuid(), name: "oranges", checked: false},
