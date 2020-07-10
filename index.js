@@ -116,7 +116,5 @@ function handleShoppingList() {
   deleteItem();
   deleteButton();
 }
-
-// when the page loads, call `handleShoppingList`
-$(handleShoppingList);
+${/*I know something goes in here*/}
 
