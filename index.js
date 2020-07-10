@@ -113,7 +113,7 @@ function handleShoppingList() {
   checkedItem();
   temId(); 
   itemCheckedOff();
-  deleteItem;
+  deleteItem();
   deleteButton();
 }
 
