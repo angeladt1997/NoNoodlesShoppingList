@@ -1,0 +1,1 @@
+Was feeling super powerful yesterday with my shopping-list app, but I have learned that though funcitona;, the code written for that app was all noodly. This code is an attempt to clean up the readability of the app so it is more like raw noodles than cooked spaghetti! Call it ravioli. Tighly neatly packed noodles!
